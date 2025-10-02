@@ -1,5 +1,10 @@
 # Mathproficient.com
 “Source code and development of mathproficient.com, a math education and STEM resource site.”
+## 🌐 Live Website  
+
+You can visit the live project here: [www.mathproficient.com](https://www.mathproficient.com)  
+
+![MathProficient Screenshot](mathpro.png)
 
 # MathProficient.com  
 
