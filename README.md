@@ -4,7 +4,7 @@
 
 You can visit the live project here: [www.mathproficient.com](https://www.mathproficient.com)  
 
-![https://www.mathproficient.com](mathpro.png)] (https://www.mathproficient.com)
+[![https://www.mathproficient.com](mathpro.png)](https://www.mathproficient.com)
 
 # MathProficient.com  
 
